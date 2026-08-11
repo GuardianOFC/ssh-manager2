@@ -1,7 +1,7 @@
 {
   "config": {
     "ok": true,
-    "configVersion": 999,
+    "configVersion": 9999,
     "appName": "Guardian",
     "maintenance": false,
     "maintenanceMessage": "Aplicativo em manutenção.",
